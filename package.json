@@ -7,8 +7,7 @@
 		"start": "node myApp.js"
 	},
 	"dependencies": {
-		"express": "^4.14.0",
-		"helmet": "^3.21.3"
+		"express": "^4.14.0"
 	}, 
 	"keywords": [
 		"node",
@@ -19,3 +18,17 @@
 	"license": "MIT"
 }
 
+{ 
+  "nombre": "HelmetJs", 
+  "versión": "1.0.0", 
+  "descripción": "", 
+  "principal": "server.js", 
+  "scripts": { 
+    "prueba": "echo \"Error : ninguna prueba especificada\" && exit 1" 
+  }, 
+  "autor": "Pranjal Srivastava", 
+  "licencia": "ISC", 
+  "dependencias": { 
+    "express": "^4.17.1", 
+  } 
+}
